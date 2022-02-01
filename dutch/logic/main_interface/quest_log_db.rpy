@@ -476,7 +476,7 @@ translate dutch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley and I broke into the secret room and borrowed files that might contain information about E.Bloom. Haley will look into them and get back to me in the morning."
-    new ""
+    new "Haley en ik hebben in de geheime kamer ingebroken en dossiers geleend die misschien informatie bevatten over E.Bloom. Haley gaat er naar kijken en zal in de ochtend hierop terugkomen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Haley discovered that Elijah's brother and Hans were lovers and were trying to escape from here. To replicate their ritual and open the portal, we'll need Samantha's help. I'll talk to her in the morning."
@@ -580,55 +580,55 @@ translate dutch strings:
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Good news for students - there's a free room in Dale-ly. Also, I saw Mina reading porno novels. Maybe In future I can use this to lure other dark secrets she might have."
-    new ""
+    new "Goed nieuws voor studenten - er is een vrije kamer in Dale-ly. Plus, ik zag Mina porno-romans lezen. Misschien komt dit later nog van pas om andere duistere geheimen achter haar te ontdekken."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I told Molly that I was working as a waiter once, and she offered me a job. On weekdays, afternoons, and evenings, I can help her around the cafe to make some money."
-    new ""
+    new "Ik vertelde Molly dat ik ooit als ober werkte, en ze bood me meteen een baantje aan. Op werkdagen, 's-middags en 's-avonds kan ik haar helpen in het café om wat geld te verdienen. "
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Now I can help Molly serve food at her cafe for a decent fee, It gets even better if I don't screw up and get more tips. Working together with Molly can get us closer.  Her workload is less intense in the evening, so it's better to talk to her at this time. But first I'll gain her trust by working at least five shifts."
-    new ""
+    new "Vanaf nu kan ik Molly helpen met het serveren van eten in haar café voor een aardige vergoeding. Het wordt zelfs nog beter als ik het niet verpest en meer fooi krijg. Samenwerken met Molly kan ons dichterbij brengen. Haar werkdruk is 's-avonds lager, dus is het gunstiger om dan met haar te praten. Maar eerst zal ik haar vertrouwen winnen door op z'n minst vijf diensten te draaien."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've helped Molly to clean the room after workhours, so we can get a little bit closer to each other. We had some fun and then the headmaster visited her. I'm pretty sure he's her uncle."
-    new ""
+    new "Ik heb Molly geholpen de ruimte op te ruimen na sluitingstijd, zodat we een beetje dichter bij elkaar kunnen komen. We hadden wat lol samen en toen kwam de hoofdmeester haar bezoeken. Ik weet bijna zeker dat dat haar oom is."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I think I'll meet Naomi somewhere where she can earn Adderin some points. Maybe at the class?"
-    new ""
+    new "Ik denk dat ik Naomi ergens kan vinden waar ze voor Adderin punten kan verdienen. Misschien bij de lessen?"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi turned out to be arrogant and over-self-confident. I'm sure I can make her more obedient in time. Naomi can be found at the fountain in the evening."
-    new ""
+    new "Naomi bleek arrogant en over-zelfverzekerd te zijn. Ik weet zeker dat ik haar na een tijdje meer onderdanig kan maken. Naomi is 's-avonds bij de fontein te vinden."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I've tried to get her interested in me, but Naomi's a tricky one. I'll see if I can get a hold of her in Potions class this afternoon."
-    new ""
+    new "Ik heb geprobeerd haar geïnteresseerd in mij te krijgen, maar Naomi is een lastige. Ik zal zien of ik haar vanmiddag in de toverdrankles te spreken kan krijgen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi tries to manipulate me into getting test answers for her. Let's see who'll end up outsmarted here. Naomi can be found at the fountain in the evening."
-    new ""
+    new "Naomi probeert me te manipuleren om toets antwoorden voor haar te regelen. We zullen zien wie hier uiteindelijk de slimste zal zijn. Naomi is 's-avonds bij de fontein te vinden."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi failed to delay Sabrina, and I've got trapped in her class for several hours! I'll tell Naomi how \"fun\" that was in the morning!"
-    new ""
+    new "Naomi lukte het niet om Sabrina op te houden, waardoor ik een paar uur in haar lokaal vast zat! Ik zal Naomi morgenochtend even vertellen hoe \"leuk\" dat was!"
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi fooled with me, and now she needs to earn my forgiveness to get the test results she needs so desperately. I'll meet her in the evening to see what I can get out of this."
-    new ""
+    new "Naomi heeft me beetgenomen, en nu zal ze mijn vergeving moeten verdienen om de toets antwoorden te krijgen die ze zo wanhopig nodig heeft. Ik spreek in de avond met haar af om te kijken wat ik hieruit kan halen."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "I took Naomi to the library, and we had some fun time together. I think she finally earned to get those test results..."
-    new ""
+    new "Ik nam Naomi mee naar de bibliotheek en we hadden wat lol samen. Ik denk dat ze de toets antwoorden eindelijk heeft verdiend..."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "Naomi and Sabrina got into a fight in class, and now Naomi needs help to win back the teacher's favor. I promised to meet her at night in the potions room and teach her how to make potions."
-    new ""
+    new "Naomi en Sabrina kregen ruzie tijdens de les en nu heeft Naomi hulp nodig om het vertrouwen van Sabrina terug te winnen. Ik beloofde haar om 's-avonds in het toverdranklokaal af te spreken en haar te leren hoe ze toverdrankjes moet maken."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "The pottery class quickly turned into a flirtation and Naomi and I went to the library to have some fun."
-    new ""
+    new "De bijles veranderde snel in geflirt waardoor Naomi en ik naar de bibliotheek gingen om wat plezier te maken."
 
     # game/logic/main_interface/quest_log_db.rpy:1593
     old "This jerk asked for a bribe and almost let Adele be raped. I think I'll need to give him a lesson later. But the good thing is I've got a VIP pass to the club now."
